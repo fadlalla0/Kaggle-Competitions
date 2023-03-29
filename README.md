@@ -1,2 +1,2 @@
 # Kaggle-Competitions
-In that file you can find my notebooks for kaggle competitions 
+In that Repo you can find my notebooks for kaggle competitions 
